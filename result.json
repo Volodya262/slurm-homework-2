@@ -1,0 +1,54 @@
+{
+    "::" : [
+        {
+            "name" : "People's Democratic Republic of Algeria",
+            "capital" : "Algiers",
+            "area" : 2381741.0
+        },
+        {
+            "name" : "Democratic Republic of the Congo",
+            "capital" : "Kinshasa",
+            "area" : 2344858.0
+        },
+        {
+            "name" : "Republic of the Sudan",
+            "capital" : "Khartoum",
+            "area" : 1886068.0
+        },
+        {
+            "name" : "State of Libya",
+            "capital" : "Tripoli",
+            "area" : 1759540.0
+        },
+        {
+            "name" : "Republic of Chad",
+            "capital" : "N'Djamena",
+            "area" : 1284000.0
+        },
+        {
+            "name" : "Republic of Niger",
+            "capital" : "Niamey",
+            "area" : 1267000.0
+        },
+        {
+            "name" : "Republic of Angola",
+            "capital" : "Luanda",
+            "area" : 1246700.0
+        },
+        {
+            "name" : "Republic of Mali",
+            "capital" : "Bamako",
+            "area" : 1240192.0
+        },
+        {
+            "name" : "Republic of South Africa",
+            "capital" : "Pretoria",
+            "area" : 1221037.0
+        },
+        {
+            "name" : "Federal Democratic Republic of Ethiopia",
+            "capital" : "Addis Ababa",
+            "area" : 1104300.0
+        }
+    ]
+}
